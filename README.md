@@ -1,5 +1,5 @@
 <p align="center">
-<img height="320em" src="https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp" />
+<img src="hero.png" />
 </p>
 
  <h2 align="center">Hi! I'm Matteo Celani 👋</h2>
